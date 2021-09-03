@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my log"
 date: 2021-09-03
 ---
 
